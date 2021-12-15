@@ -1,0 +1,5 @@
+credentials_file = "service_account_key.json"
+project          = "geo-distributed-asset-registry"
+region           = "sia-southeast1"
+zone             = "sia-southeast1-a"
+webapp_vpc       = "webapp-vpc"
